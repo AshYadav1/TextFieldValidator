@@ -1,5 +1,5 @@
 # TextFieldValidator through Property Wrapper
-@TextFieldValidator is used for the validation of text field values in one place. This is useful when the same type of validation is being used in the project at different places. For example email, phone number, etc. It will be more useful to show the errors of textfield at runtime. 
+**@TextFieldValidator** is used for the validation of text field values in one place. This is useful when the same type of validation is being used in the project at different places. For example email, phone number, etc. It will be more useful to show the errors of textfield at runtime. 
 
 **Usage**
 
